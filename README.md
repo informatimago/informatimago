@@ -67,3 +67,4 @@ Some projects are mirrored on GitHub.
 Specifications and tests come first. Since 2026 I also use AI coding
 assistants, under close review; many recent commits say so in a
 `Co-Authored-By` trailer.
+
